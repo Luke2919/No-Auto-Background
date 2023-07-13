@@ -1,4 +1,4 @@
-2023-07-11
+2023-07-13
   
 CLI: revanced-cli-2.23.0-all.jar  
 Integrations: revanced-integrations-0.112.0-v0.112.0.apk  
@@ -11,7 +11,7 @@ Music (arm64-v8a) version: 6.10.51
 
 Music (arm-v7a) version: 6.10.51  
 
-Twitter version: 9.96.0-release.0  
+Twitter version: 9.97.0-release.0  
 
 Reddit version: 2023.27.0  
 
